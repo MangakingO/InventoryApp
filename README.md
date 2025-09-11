@@ -1,7 +1,7 @@
-# CSE 3302 – Inventory Management Application
+# CSE 3310 – Inventory Management Application
 
 ## 📌 Overview
-This project is a group assignment for **CSE 3302**.  
+This project is a group assignment for **CSE 3310**.  
 We are building an **Android-based inventory management app** that integrates with **Firebase** for authentication, cloud storage, and real-time sync.  
 
 The app will allow multiple UTA users to log in, manage inventory items, receive low-stock notifications, sync across devices, and export data to CSV/Excel.
