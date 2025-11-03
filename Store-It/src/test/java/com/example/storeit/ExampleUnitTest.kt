@@ -1,4 +1,4 @@
-package com.inventorymanagers.InventoryApp
+package com.example.storeit
 
 import org.junit.Test
 
