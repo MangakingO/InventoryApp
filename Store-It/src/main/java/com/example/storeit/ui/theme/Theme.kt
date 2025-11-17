@@ -1,4 +1,4 @@
-package com.inventorymanagers.InventoryApp.ui.theme
+package com.example.storeit.ui.theme
 
 import android.app.Activity
 import android.os.Build
